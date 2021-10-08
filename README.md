@@ -59,8 +59,9 @@
 <code><img height="50" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" alt="MONGO"/></code>
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" alt="XXAMP"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
-<code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="POSTMAN"/></code>
-
+<code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code>
+<code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="HBS"/></code>
+<code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code>
 
 
 
