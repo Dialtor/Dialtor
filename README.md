@@ -56,9 +56,9 @@
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
 <code><img height="50" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
-<code><img height="50" src="https://midu.dev/images/tags/firebase.png" alt="CSS"/></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" alt="CSS"/></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="CSS"/></code>
+<code><img height="50" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" alt="MONGO"/></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" alt="XXAMP"/></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 
 
 
