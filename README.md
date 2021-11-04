@@ -19,7 +19,7 @@
 ## My social networks
 
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/diego-alejandro-presiga-torres-6960a1220/" target="_blank">
 <img align="center" alt="Dialtor-linkedin" height="50"  src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg">
 </a>
 <a href="#" target="_blank">
