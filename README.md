@@ -60,11 +60,11 @@
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" alt="XXAMP"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 <code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code>
-<code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code>
+<!-- <code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code> -->
 
 
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dialtor&show_icons=true&theme=dark&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dialtor&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dialtor&show_icons=true&theme=github_dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dialtor&layout=compact&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
